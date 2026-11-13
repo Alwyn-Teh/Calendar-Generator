@@ -4,6 +4,7 @@ from pathlib import Path
 import ast
 import importlib.metadata
 import sys
+import tokenize
 
 ROOT = Path(__file__).resolve().parents[1]
 print(f"Python: {sys.version.split()[0]}")
