@@ -97,3 +97,14 @@ Place this repository in your preferred local development folder, e.g. `~/dev/Gi
 ## Licensing
 
 No open-source licence has been added automatically. The repository owner should choose and add a `LICENSE` file if they want to grant others permission to reuse, modify, or redistribute the code. A public GitHub repository alone is not an open-source licence.
+
+## Acknowledgements
+
+This project was conceived and developed by **Alwyn Teh**, with assistance from **OpenAI's ChatGPT (GPT-6)**.
+
+ChatGPT assisted with Python code generation, debugging, PDF layout design and iterative refinements, while the overall concept, design requirements, testing, feedback and final decisions were directed by Alwyn Teh.
+
+The calendar generator evolved through numerous iterations, combining human creativity, practical requirements and AI-assisted software development.
+
+This project demonstrates how generative AI can help turn an idea into a useful, working application through an interactive and collaborative development process.
+
