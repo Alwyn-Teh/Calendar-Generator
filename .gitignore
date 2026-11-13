@@ -21,5 +21,10 @@ env/
 *.swp
 *~
 
-# Generated PDFs (examples already committed are tracked)
+# Ignore generated calendars by default
 calendar_*.pdf
+
+# Allow example PDF calendars to be committed
+!examples/calendar_2026.pdf
+!examples/calendar_2027.pdf
+
