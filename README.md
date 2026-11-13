@@ -65,6 +65,15 @@ To generate a calendar using the default filename `calendar_2028.pdf`:
 python make_calendar.py 2028
 ```
 
+## Example Calendars
+
+Preview or download the sample calendars:
+
+- [2026 Calendar (PDF)](examples/calendar_2026.pdf)
+- [2027 Calendar (PDF)](examples/calendar_2027.pdf)
+
+Both calendars demonstrate the printable A4 landscape layout, including mini-months, ISO week numbers, UK bank holidays and the Tasks panel.
+
 The output file is written to the current working directory. If you use a filename that already exists, it will be overwritten: choose a different output filename to preserve the provided example PDFs.
 
 When finished, use `deactivate` to leave the virtual environment. On subsequent visits, run `source .venv/bin/activate` again before using the generator.
